@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b9139c5-1852-441a-bcbc-c7ba6a01df60" name="Changes" comment="Jupiternotebook setup">
+    <list default="true" id="6b9139c5-1852-441a-bcbc-c7ba6a01df60" name="Changes" comment="flyttet csv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AmesHousing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/AmesHousing.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing_price_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/housing_price_prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -95,7 +94,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1789985530539</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="flyttet csv">
+      <option name="closed" value="true" />
+      <created>1790236095903</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1790236095903</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="data" />
     <MESSAGE value="Jupiternotebook setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jupiternotebook setup" />
+    <MESSAGE value="flyttet csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="flyttet csv" />
   </component>
 </project>
