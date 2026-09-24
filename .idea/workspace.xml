@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b9139c5-1852-441a-bcbc-c7ba6a01df60" name="Changes" comment="data">
-      <change beforePath="$PROJECT_DIR$/.idea/Machine-Learning-Assignment-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine-Learning-Assignment-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmesHousing.csv" beforeDir="false" />
+    <list default="true" id="6b9139c5-1852-441a-bcbc-c7ba6a01df60" name="Changes" comment="Jupiternotebook setup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AmesHousing.csv" beforeDir="false" afterPath="$PROJECT_DIR$/AmesHousing.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing_price_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/housing_price_prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,22 +24,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Frednos"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Frednos&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Frednos/Machine-Learning-Assignment-1.git",
-    "accountId": "273e73d0-2315-444a-929d-affd2e89d0fe"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Frednos/Machine-Learning-Assignment-1.git&quot;,
+    &quot;accountId&quot;: &quot;273e73d0-2315-444a-929d-affd2e89d0fe&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3JdG4FUkJL0iW26wYIeJK8JNJr7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,15 +54,22 @@
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fredr\Desktop\Skole NTNU\3\Machine lærning\Machine-Learning-Assignment-1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
       </set>
     </attachedChunks>
   </component>
@@ -80,7 +88,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1789983753955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="data">
+      <option name="closed" value="true" />
+      <created>1789985530539</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1789985530539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="data" />
-    <option name="LAST_COMMIT_MESSAGE" value="data" />
+    <MESSAGE value="Jupiternotebook setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jupiternotebook setup" />
   </component>
 </project>
