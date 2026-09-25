@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b9139c5-1852-441a-bcbc-c7ba6a01df60" name="Changes" comment="Plots done">
+    <list default="true" id="6b9139c5-1852-441a-bcbc-c7ba6a01df60" name="Changes" comment="Lagt inn step 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing_price_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/housing_price_prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +122,14 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1790252902433</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Lagt inn step 2">
+      <option name="closed" value="true" />
+      <created>1790253356803</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1790253356803</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +140,7 @@
     <MESSAGE value="Jupiternotebook setup" />
     <MESSAGE value="flyttet csv" />
     <MESSAGE value="Plots done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Plots done" />
+    <MESSAGE value="Lagt inn step 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lagt inn step 2" />
   </component>
 </project>
