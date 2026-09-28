@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b9139c5-1852-441a-bcbc-c7ba6a01df60" name="Changes" comment="3 og 4 done">
+    <list default="true" id="6b9139c5-1852-441a-bcbc-c7ba6a01df60" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Machine-Learning-Assignment-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine-Learning-Assignment-1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing_price_prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/housing_price_prediction.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;FreddyFrosk&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing FreddyFrosk&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
@@ -141,6 +141,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="data" />
